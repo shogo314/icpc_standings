@@ -156,11 +156,20 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
                 assert False
         d["TaskResults"] = TaskResults
         StandingsData.append(d)
+    # return {
+    #     "ContestData": {
+    #         "UnitTime": "minute",
+    #         "Penalty": 20,
+    #         "Duration": 5 * 60,
+    #         "TaskInfo": problem_list,
+    #     },
+    #     "StandingsData": StandingsData,
+    # }
     return {
         "ContestData": {
-            "UnitTime": "minute",
-            "Penalty": 20,
-            "Duration": 5 * 60,
+            "UnitTime": "second",
+            "Penalty": 20 * 60,
+            "Duration": 5 * 60 * 60,
             "TaskInfo": problem_list,
         },
         "StandingsData": StandingsData,
@@ -174,6 +183,7 @@ def main():
     formated = depth_analysis(bracket_analysis(html_data))
     d = to_dict(formated)
     import json
+
     print(json.dumps(d))
 
 
