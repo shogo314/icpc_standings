@@ -70,19 +70,27 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
     assert f[k] == (2, "<div>")
     k += 1
     StandingsData = []
+    rank_flag = True
+    rank_cnt = 1
     while True:
         if k >= len(f):
             break
         d = {}
         assert f[k][0] == 3 and f[k][1].startswith("<div data-key=")
         k += 1
-        assert f[k] == (4, '<div class="team-row  ">')
+        assert f[k][0] == 4 and f[k][1].startswith('<div class="team-row  "')
         k += 1
         assert f[k] == (5, '<div class="team-left">')
         k += 5
         assert f[k] == (5, '<div class="team-col team-rank">')
         k += 2
-        d["Rank"] = int(f[k][1])
+        if f[k][1] == "-":
+            rank_flag = False
+            d["Rank"] = rank_cnt
+        else:
+            assert rank_flag
+            d["Rank"] = int(f[k][1])
+            rank_cnt += 1
         k += 5
         assert f[k] == (5, '<div class="team-right">')
         k += 1
@@ -178,13 +186,14 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
 
 def main():
     html_data = ""
-    with open("ICPC 2023 Asia Yokohama Regional.html", "r") as f:
+    with open("html/ICPC 2024 国内予選.html", "r") as f:
         html_data = f.read()
     formated = depth_analysis(bracket_analysis(html_data))
     d = to_dict(formated)
     import json
 
-    print(json.dumps(d))
+    with open("standings_2024_domestic.json", "w") as f:
+        print(json.dumps(d), file=f)
 
 
 if __name__ == "__main__":
