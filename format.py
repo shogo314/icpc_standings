@@ -177,7 +177,7 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
         "ContestData": {
             "UnitTime": "second",
             "Penalty": 20 * 60,
-            "Duration": 5 * 60 * 60,
+            "Duration": 3 * 60 * 60,
             "TaskInfo": problem_list,
         },
         "StandingsData": StandingsData,
