@@ -164,36 +164,36 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
                 assert False
         d["TaskResults"] = TaskResults
         StandingsData.append(d)
-    # return {
-    #     "ContestData": {
-    #         "UnitTime": "minute",
-    #         "Penalty": 20,
-    #         "Duration": 5 * 60,
-    #         "TaskInfo": problem_list,
-    #     },
-    #     "StandingsData": StandingsData,
-    # }
     return {
         "ContestData": {
-            "UnitTime": "second",
-            "Penalty": 20 * 60,
-            "Duration": 3 * 60 * 60,
+            "UnitTime": "minute",
+            "Penalty": 20,
+            "Duration": 5 * 60,
             "TaskInfo": problem_list,
         },
         "StandingsData": StandingsData,
     }
+    # return {
+    #     "ContestData": {
+    #         "UnitTime": "second",
+    #         "Penalty": 20 * 60,
+    #         "Duration": 3 * 60 * 60,
+    #         "TaskInfo": problem_list,
+    #     },
+    #     "StandingsData": StandingsData,
+    # }
 
 
 def main():
     html_data = ""
-    with open("html/ICPC 2024 国内予選.html", "r") as f:
+    with open("html/ICPC 2022 Asia Yokohama Regional.html", "r") as f:
         html_data = f.read()
     formated = depth_analysis(bracket_analysis(html_data))
     d = to_dict(formated)
     import json
 
-    with open("standings_2024_domestic.json", "w") as f:
-        print(json.dumps(d), file=f)
+    with open("standings_2022_yokohama.json", "w") as f:
+        print(json.dumps(d, ensure_ascii=False), file=f)
 
 
 if __name__ == "__main__":
