@@ -150,6 +150,7 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
         assert f[k] == (1, '<td class="scorett">')
         k += 1
         TotalResult["Penalty"] = int(f[k][1])
+        d["TotalResult"] = TotalResult
         k += 1
         assert f[k] == (1, "</td>")
         k += 2
@@ -224,7 +225,7 @@ def main():
     d = to_dict(formated)
     import json
 
-    with open("standings_2024_taichung.json", "w") as f:
+    with open("json/standings_2024_taichung.json", "w") as f:
         print(json.dumps(d, ensure_ascii=False), file=f)
 
 

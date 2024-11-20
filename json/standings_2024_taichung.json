@@ -25,6 +25,10 @@
             "Rank": 1,
             "TeamName": "Screenwalkers",
             "University": "The University of Tokyo",
+            "TotalResult": {
+                "Score": 13,
+                "Penalty": 1186
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -97,6 +101,10 @@
             "Rank": 2,
             "TeamName": "std_abs",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 12,
+                "Penalty": 979
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -169,6 +177,10 @@
             "Rank": 3,
             "TeamName": "NYCU_MyGO!!!",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 10,
+                "Penalty": 874
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -241,6 +253,10 @@
             "Rank": 4,
             "TeamName": "TokidokiBosottoSegukideNaguruTonarinoSamusan",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 10,
+                "Penalty": 903
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -298,6 +314,10 @@
             "Rank": 5,
             "TeamName": "R-12",
             "University": "National\n                        Taiwan University",
+            "TotalResult": {
+                "Score": 10,
+                "Penalty": 988
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -360,6 +380,10 @@
             "Rank": 6,
             "TeamName": "LionKingFlag",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 541
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -417,6 +441,10 @@
             "Rank": 7,
             "TeamName": "fruit_advantages",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 681
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -469,6 +497,10 @@
             "Rank": 8,
             "TeamName": "Mottohayaku",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 812
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -526,6 +558,10 @@
             "Rank": 9,
             "TeamName": "NYCU_CartesianTree",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 832
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -583,6 +619,10 @@
             "Rank": 10,
             "TeamName": "slowforce",
             "University": "KAIST",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 910
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -640,6 +680,10 @@
             "Rank": 11,
             "TeamName": "XL-pants",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 924
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -697,6 +741,10 @@
             "Rank": 12,
             "TeamName": "ICPCC",
             "University": "National\n                        Taiwan University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 992
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -754,6 +802,10 @@
             "Rank": 13,
             "TeamName": "OneWordFinish",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1048
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -806,6 +858,10 @@
             "Rank": 14,
             "TeamName": "__builtin_orz()",
             "University": "National Central University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1100
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -863,6 +919,10 @@
             "Rank": 15,
             "TeamName": "PCkomachi",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 459
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -920,6 +980,10 @@
             "Rank": 16,
             "TeamName": "Kuuhaku",
             "University": "De La\n                        Salle University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 520
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -972,6 +1036,10 @@
             "Rank": 17,
             "TeamName": "kopagi",
             "University": "Seoul\n                        National University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 700
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1024,6 +1092,10 @@
             "Rank": 18,
             "TeamName": "2get",
             "University": "Waseda\n                        University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 858
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1071,6 +1143,10 @@
             "Rank": 19,
             "TeamName": "NYCU_Holo",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1016
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 8,
@@ -1118,6 +1194,10 @@
             "Rank": 20,
             "TeamName": "RedCapeFlyingCat",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 440
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1165,6 +1245,10 @@
             "Rank": 21,
             "TeamName": "NTNU_conqueror",
             "University": "National Taiwan Normal University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 597
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -1212,6 +1296,10 @@
             "Rank": 22,
             "TeamName": "BreakfastEatToFull",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 638
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -1264,6 +1352,10 @@
             "Rank": 23,
             "TeamName": "NYCU_FriedShrimp",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 660
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 13,
@@ -1311,6 +1403,10 @@
             "Rank": 24,
             "TeamName": "kotamanegi_marukajiri",
             "University": "Osaka University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 712
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1353,6 +1449,10 @@
             "Rank": 25,
             "TeamName": "N-Dimensional Sum",
             "University": "BINUS UNIVERSITY",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 741
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1405,6 +1505,10 @@
             "Rank": 26,
             "TeamName": "EqualUEqual",
             "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 741
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1447,6 +1551,10 @@
             "Rank": 27,
             "TeamName": "NYCU_PrefixSum",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 447
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -1489,6 +1597,10 @@
             "Rank": 28,
             "TeamName": "NYCU_FusionTree",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 521
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -1526,6 +1638,10 @@
             "Rank": 29,
             "TeamName": "0x158",
             "University": "Senshu\n                        University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 546
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 6,
@@ -1563,6 +1679,10 @@
             "Rank": 30,
             "TeamName": "ChatGPT-5",
             "University": "University of Aizu",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 549
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -1600,6 +1720,10 @@
             "Rank": 31,
             "TeamName": "NTUT_CINC",
             "University": "National Taipei University of Technology",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 627
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -1642,6 +1766,10 @@
             "Rank": 32,
             "TeamName": "NYCU_B1naryQuack",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 674
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1684,6 +1812,10 @@
             "Rank": 33,
             "TeamName": "WhereisSouth",
             "University": "National Central University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 963
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -1721,6 +1853,10 @@
             "Rank": 34,
             "TeamName": "NYCU_FubukiMyWiFE",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 250
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1758,6 +1894,10 @@
             "Rank": 35,
             "TeamName": "wmw",
             "University": "Soongsil\n                        University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 304
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -1795,6 +1935,10 @@
             "Rank": 36,
             "TeamName": "NSYSU_Dog",
             "University": "National Sun-Yat-Sen University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 336
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -1832,6 +1976,10 @@
             "Rank": 37,
             "TeamName": "NYCU_GBC",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 343
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -1874,6 +2022,10 @@
             "Rank": 38,
             "TeamName": "Cocacolastic",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 369
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -1911,6 +2063,10 @@
             "Rank": 39,
             "TeamName": "TYC",
             "University": "National Cheng\n                        Kung University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 377
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 7,
@@ -1953,6 +2109,10 @@
             "Rank": 40,
             "TeamName": "DreaminBubble",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 409
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -1990,6 +2150,10 @@
             "Rank": 41,
             "TeamName": "NTHU_OAO",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 434
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -2027,6 +2191,10 @@
             "Rank": 42,
             "TeamName": "Coinisus",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 436
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2064,6 +2232,10 @@
             "Rank": 43,
             "TeamName": "NCKU-DuckPancake",
             "University": "National Cheng Kung University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 440
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 6,
@@ -2101,6 +2273,10 @@
             "Rank": 44,
             "TeamName": "NYCU_2434",
             "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 504
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2133,6 +2309,10 @@
             "Rank": 45,
             "TeamName": "Mashu",
             "University": "National\n                        Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 669
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2165,6 +2345,10 @@
             "Rank": 46,
             "TeamName": "HelloWorld(\"print\")",
             "University": "Yuan Ze University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 686
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -2202,6 +2386,10 @@
             "Rank": 47,
             "TeamName": "NyaNya Otakus",
             "University": "National Cheng-Chi University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 717
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2234,6 +2422,10 @@
             "Rank": 48,
             "TeamName": "OldDriverTrie",
             "University": "National Taiwan Normal University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 993
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2266,6 +2458,10 @@
             "Rank": 49,
             "TeamName": "Enter",
             "University": "National\n                        Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 72
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -2298,6 +2494,10 @@
             "Rank": 50,
             "TeamName": "nosvdlvdtnsaoh",
             "University": "National Yunlin University of Science and Technology",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 100
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 1,
@@ -2330,6 +2530,10 @@
             "Rank": 51,
             "TeamName": "official beautiful fruit",
             "University": "National Cheng Kung University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 150
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 11,
@@ -2372,6 +2576,10 @@
             "Rank": 52,
             "TeamName": "Miaotomata",
             "University": "National Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 178
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2409,6 +2617,10 @@
             "Rank": 53,
             "TeamName": "Muryou Kuusho",
             "University": "National Cheng-Chi University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 201
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 7,
@@ -2446,6 +2658,10 @@
             "Rank": 54,
             "TeamName": "Kenapsack",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 202
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 7,
@@ -2478,6 +2694,10 @@
             "Rank": 55,
             "TeamName": "everyone",
             "University": "National Cheng Kung University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 234
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -2510,6 +2730,10 @@
             "Rank": 56,
             "TeamName": "ITY",
             "University": "National Tsing\n                        Hua University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 239
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2552,6 +2776,10 @@
             "Rank": 57,
             "TeamName": "__M1ruSort(CCU);",
             "University": "National Chung Cheng University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 271
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2584,6 +2812,10 @@
             "Rank": 58,
             "TeamName": "FCU_honorable_mention",
             "University": "Feng Chia University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 272
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -2616,6 +2848,10 @@
             "Rank": 59,
             "TeamName": "CCU_RemovingDigit",
             "University": "National Chung Cheng University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 327
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -2648,6 +2884,10 @@
             "Rank": 60,
             "TeamName": "CCU_D'1st'ance",
             "University": "National Chung Cheng University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 332
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2685,6 +2925,10 @@
             "Rank": 61,
             "TeamName": "Suzukaze_daisuki",
             "University": "National Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 336
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2722,6 +2966,10 @@
             "Rank": 62,
             "TeamName": "Jc11",
             "University": "Fu Jen\n                        Catholic University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 347
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2759,6 +3007,10 @@
             "Rank": 63,
             "TeamName": "NSYSU_Fox",
             "University": "National Sun-Yat-Sen University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 436
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2796,6 +3048,10 @@
             "Rank": 64,
             "TeamName": "Alpha_Beta_Tree",
             "University": "National Taiwan Normal University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 467
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2833,6 +3089,10 @@
             "Rank": 65,
             "TeamName": "NTNU_WOAT",
             "University": "National Taiwan Normal University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 480
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -2880,6 +3140,10 @@
             "Rank": 66,
             "TeamName": "ncu-121",
             "University": "National Central University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 501
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2907,6 +3171,10 @@
             "Rank": 67,
             "TeamName": "DeBugCat Capoo",
             "University": "National Tsing Hua University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 506
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -2939,6 +3207,10 @@
             "Rank": 68,
             "TeamName": "NFU_sauceSpammer",
             "University": "National Formosa University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 810
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -2966,6 +3238,10 @@
             "Rank": 69,
             "TeamName": "CCU_AutoTemp",
             "University": "National Chung Cheng University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 39
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3003,6 +3279,10 @@
             "Rank": 70,
             "TeamName": "Rigby",
             "University": "National\n                        Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 57
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3035,6 +3315,10 @@
             "Rank": 71,
             "TeamName": "NCYU_tripleC",
             "University": "National Chiayi University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 66
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -3062,6 +3346,10 @@
             "Rank": 72,
             "TeamName": "NUTCClown",
             "University": "National Taichung University of Science and Technology",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 67
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3089,6 +3377,10 @@
             "Rank": 73,
             "TeamName": "CCU_ZOO",
             "University": "National Chung Cheng University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 69
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3121,6 +3413,10 @@
             "Rank": 74,
             "TeamName": "NekoCuteUwU",
             "University": "National Central University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 72
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3153,6 +3449,10 @@
             "Rank": 75,
             "TeamName": "Something",
             "University": "National Yunlin University of Science and Technology",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 80
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3180,6 +3480,10 @@
             "Rank": 76,
             "TeamName": "Ihavenoeyedeer",
             "University": "National Chung Cheng University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 84
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 6,
@@ -3207,6 +3511,10 @@
             "Rank": 77,
             "TeamName": "Lurker",
             "University": "National\n                        Chi Nan University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 98
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 7,
@@ -3239,6 +3547,10 @@
             "Rank": 78,
             "TeamName": "CSIE-NPTU24",
             "University": "National Pingtung University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 103
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -3271,6 +3583,10 @@
             "Rank": 79,
             "TeamName": "NCU_AlcoholiC",
             "University": "National Central University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 106
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3303,6 +3619,10 @@
             "Rank": 80,
             "TeamName": "XwX",
             "University": "National\n                        Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 107
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3330,6 +3650,10 @@
             "Rank": 81,
             "TeamName": "16chars_in_10s",
             "University": "National Ilan University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 119
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3362,6 +3686,10 @@
             "Rank": 82,
             "TeamName": "lll&amp;l^3",
             "University": "National Cheng Kung University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 143
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3394,6 +3722,10 @@
             "Rank": 83,
             "TeamName": "MCU_NL",
             "University": "Ming\n                        Chuan University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 145
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -3426,6 +3758,10 @@
             "Rank": 84,
             "TeamName": "NTCU134",
             "University": "National Taichung University of Education",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 146
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3458,6 +3794,10 @@
             "Rank": 85,
             "TeamName": "Eateam",
             "University": "University of Taipei",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 149
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3490,6 +3830,10 @@
             "Rank": 86,
             "TeamName": "Drone&amp;Library#FS-ZCY",
             "University": "National Formosa University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 151
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3517,6 +3861,10 @@
             "Rank": 87,
             "TeamName": "AlwaysChinitsu",
             "University": "National Taitung University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 163
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 13,
@@ -3559,6 +3907,10 @@
             "Rank": 88,
             "TeamName": "Sunny",
             "University": "Tatung\n                        University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 170
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3591,6 +3943,10 @@
             "Rank": 89,
             "TeamName": "FCU_honorableBurning",
             "University": "Feng Chia University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 174
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3628,6 +3984,10 @@
             "Rank": 90,
             "TeamName": "NSYSU_Bat",
             "University": "National Sun-Yat-Sen University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 192
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3665,6 +4025,10 @@
             "Rank": 91,
             "TeamName": "IuseArchBTW",
             "University": "National Taiwan Normal University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 195
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 8,
@@ -3692,6 +4056,10 @@
             "Rank": 92,
             "TeamName": "Chu_WEI",
             "University": "Chung\n                        Hua University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 208
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -3724,6 +4092,10 @@
             "Rank": 93,
             "TeamName": "TimeToGoToBed",
             "University": "Tamkang University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 213
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -3751,6 +4123,10 @@
             "Rank": 94,
             "TeamName": "CCU_UC",
             "University": "National\n                        Chung Cheng University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 222
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3783,6 +4159,10 @@
             "Rank": 95,
             "TeamName": "Lingbangdang",
             "University": "Yuan Ze University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 262
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 3,
@@ -3810,6 +4190,10 @@
             "Rank": 96,
             "TeamName": "how the turntables",
             "University": "National Taitung University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 271
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 7,
@@ -3842,6 +4226,10 @@
             "Rank": 97,
             "TeamName": "Handmade",
             "University": "Fu\n                        Jen Catholic University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 271
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -3869,6 +4257,10 @@
             "Rank": 98,
             "TeamName": "haruhikagerogerokonokositantan",
             "University": "National Taiwan Ocean University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 279
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -3901,6 +4293,10 @@
             "Rank": 99,
             "TeamName": "MCU_Bullinv",
             "University": "Ming Chuan University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 309
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -3933,6 +4329,10 @@
             "Rank": 100,
             "TeamName": "TechTitans",
             "University": "Fu Jen Catholic University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 334
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 6,
@@ -3960,6 +4360,10 @@
             "Rank": 101,
             "TeamName": "Kashi",
             "University": "Fu Jen\n                        Catholic University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 401
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 2,
@@ -3992,6 +4396,10 @@
             "Rank": 102,
             "TeamName": "MCU_WCT",
             "University": "Ming\n                        Chuan University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 405
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 9,
@@ -4019,6 +4427,10 @@
             "Rank": 103,
             "TeamName": "Japan and cow",
             "University": "National Taichung University of Education",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 466
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -4046,6 +4458,10 @@
             "Rank": 104,
             "TeamName": "SLT",
             "University": "Yuan Ze\n                        University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 467
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 8,
@@ -4073,6 +4489,10 @@
             "Rank": 105,
             "TeamName": "Mathematics-idiot",
             "University": "Providence University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 548
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 7,
@@ -4100,6 +4520,10 @@
             "Rank": 106,
             "TeamName": "MCU_Panda",
             "University": "Ming Chuan University",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 553
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 5,
@@ -4127,6 +4551,10 @@
             "Rank": 107,
             "TeamName": "NTUST_CGAL",
             "University": "National Taiwan University of Science and Technology",
+            "TotalResult": {
+                "Score": 2,
+                "Penalty": 19
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -4149,6 +4577,10 @@
             "Rank": 108,
             "TeamName": "NTUB Brave",
             "University": "National Taipei University of Business",
+            "TotalResult": {
+                "Score": 2,
+                "Penalty": 262
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 22,
@@ -4171,6 +4603,10 @@
             "Rank": 109,
             "TeamName": "(\"delete\")",
             "University": "Feng Chia University",
+            "TotalResult": {
+                "Score": 2,
+                "Penalty": 311
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 4,
@@ -4198,6 +4634,10 @@
             "Rank": 110,
             "TeamName": "NFU_overflow",
             "University": "National Formosa University",
+            "TotalResult": {
+                "Score": 2,
+                "Penalty": 401
+            },
             "TaskResults": {
                 "A": {
                     "Elapsed": 8,
