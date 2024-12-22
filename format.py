@@ -26,15 +26,17 @@ def depth_analysis(l: list[str]) -> list[tuple[int, str]]:
             k -= 1
         elif s.startswith("<div"):
             ret.append((k, s))
+            print(ret[-1])
             k += 1
         else:
             ret.append((k, s))
+            print(ret[-1])
     return ret
 
 
 def to_dict(f: list[tuple[int, str]]) -> dict:
     assert f[0] == (0, '<div class="standard-standings">')
-    assert f[1] == (1, '<div class="standings-section">')
+    assert f[1] == (1, '<div class="standings-section sticky-heading">')
     assert f[2] == (2, '<div class="team-row legend">')
     assert f[3] == (3, '<div class="team-col team-mark">')
     assert f[4] == (3, '<div class="team-col team-rank">')
@@ -76,7 +78,10 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
         if k >= len(f):
             break
         d = {}
-        assert f[k][0] == 3 and f[k][1].startswith("<div data-key=")
+        try:
+            assert f[k][0] == 3 and f[k][1].startswith("<div data-key=")
+        except:
+            break
         k += 1
         assert f[k][0] == 4 and f[k][1].startswith('<div class="team-row  "')
         k += 1
@@ -106,11 +111,12 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
         d["TotalResult"] = TotalResult
         k += 2
         assert f[k] == (6, '<div class="team-col team-name">')
-        k += 2
+        k += 3
         d["TeamName"] = f[k][1]
-        k += 4
+        k += 6
         d["University"] = f[k][1]
-        k += 7
+        print(d, file=sys.stderr)
+        k += 8
         assert f[k] == (6, '<div class="team-problems">')
         k += 1
         TaskResults = {}
@@ -158,7 +164,7 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
                 assert f[k] == (8, '<div class="team-colored-col-fg">')
                 k += 2
                 assert f[k] == (9, "-")
-                k += 5
+                k += 3
             else:
                 print("err", f[k], file=sys.stderr)
                 assert False
@@ -186,13 +192,13 @@ def to_dict(f: list[tuple[int, str]]) -> dict:
 
 def main():
     html_data = ""
-    with open("html/ICPC 2022 Asia Yokohama Regional.html", "r") as f:
+    with open("html/ICPC 2024 Asia Yokohama Regional.html", "r") as f:
         html_data = f.read()
     formated = depth_analysis(bracket_analysis(html_data))
     d = to_dict(formated)
     import json
 
-    with open("standings_2022_yokohama.json", "w") as f:
+    with open("standings_2024_yokohama.json", "w") as f:
         print(json.dumps(d, ensure_ascii=False), file=f)
 
 
