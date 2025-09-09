@@ -1,0 +1,6443 @@
+{
+    "ContestData": {
+        "UnitTime": "minute",
+        "Penalty": 20,
+        "Duration": 300,
+        "TaskInfo": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L"
+        ]
+    },
+    "StandingsData": [
+        {
+            "Rank": 1,
+            "University": "St. Petersburg State University",
+            "TotalResult": {
+                "Score": 11,
+                "Penalty": 1478
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 255,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 150,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "G": {
+                    "Elapsed": 298,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "H": {
+                    "Elapsed": 195,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 81,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 128,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 2,
+            "University": "The University of Tokyo",
+            "TotalResult": {
+                "Score": 10,
+                "Penalty": 1116
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 206,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 271,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 25,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 184,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 95,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 66,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 72,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 126,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 3,
+            "University": "Beijing Jiaotong University",
+            "TotalResult": {
+                "Score": 10,
+                "Penalty": 1425
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 225,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 204,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "C": {
+                    "Elapsed": 204,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 270,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 84,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 107,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 148,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 6,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 4,
+            "University": "Tsinghua University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 865
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 139,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "C": {
+                    "Elapsed": 139,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 33,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 174,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "G": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 71,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 84,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 157,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 13,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 5,
+            "University": "Peking University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 887
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 180,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 168,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 113,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 76,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 183,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 6,
+            "University": "Harvard University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 995
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 124,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 238,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "H": {
+                    "Elapsed": 190,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 62,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 101,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 18,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 7,
+            "University": "University of Zagreb",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1075
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 176,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 15,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 242,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 77,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 175,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 118,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 8,
+            "University": "Massachusetts Institute of Technology",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1123
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 233,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 233,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 113,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 204,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "I": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "K": {
+                    "Elapsed": 145,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 9,
+            "University": "University of Science and Technology of China",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1128
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 224,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 41,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 286,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 229,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 55,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 85,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 123,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 10,
+            "University": "Seoul National University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1133
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 201,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 282,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 32,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "H": {
+                    "Elapsed": 160,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 46,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 79,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 161,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 11,
+            "University": "University of Novi Sad",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1175
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 244,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 244,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 39,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 259,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 158,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 96,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 208,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 16,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 12,
+            "University": "Saratov State University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1191
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 203,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 203,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "E": {
+                    "Elapsed": 238,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "H": {
+                    "Elapsed": 146,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 164,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 13,
+            "University": "Karlsruhe Institute of Technology",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1199
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 133,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 133,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 292,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 207,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 92,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 234,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 14,
+            "University": "University of Maryland",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1239
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 106,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 106,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "D": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 233,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 65,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 258,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 225,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 164,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 48,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 15,
+            "University": "National Taiwan University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1256
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 190,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "E": {
+                    "Elapsed": 278,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 182,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 118,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 77,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 173,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 16,
+            "University": "Sharif University of Technology",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1329
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 73,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 73,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "D": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 244,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 257,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 136,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 158,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "K": {
+                    "Elapsed": 213,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 17,
+            "University": "Arizona State University",
+            "TotalResult": {
+                "Score": 9,
+                "Penalty": 1331
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 254,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 298,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 94,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 169,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 125,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 199,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 18,
+            "University": "HSE University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 653
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 168,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 32,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 144,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 56,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 72,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 91,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 12,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 19,
+            "University": "Carnegie Mellon University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 766
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 217,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 51,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 179,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 61,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 118,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 9,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 20,
+            "University": "University of Illinois Urbana-Champaign",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 774
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 252,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "G": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 16
+                },
+                "H": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 60,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 162,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 16,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 21,
+            "University": "Zhongshan (Sun Yat-sen) University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 800
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 276,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "F": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 46,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 92,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 151,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 11,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 22,
+            "University": "KAIST",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 829
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 259,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 159,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 25,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 68,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "G": {
+                    "Elapsed": 68,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 68,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 81,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 143,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 32,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 23,
+            "University": "Zhejiang University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 871
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 186,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 29,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 29,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 144,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 115,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 175,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 13,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 24,
+            "University": "Kyoto University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 880
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 209,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 209,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 82,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 153,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 120,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 146,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 15,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 25,
+            "University": "National University of Singapore",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 923
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 119,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 16,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 29,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "G": {
+                    "Elapsed": 270,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 270,
+                    "Score": 1,
+                    "Penalty": 6
+                },
+                "I": {
+                    "Elapsed": 85,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 299,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 26,
+            "University": "Harbin Institute of Technology",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 948
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 238,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 70,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 147,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 231,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 27,
+            "University": "Institute of Science Tokyo",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 975
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 221,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 221,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 67,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 67,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 33,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 211,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 147,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 144,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 28,
+            "University": "Shanghai University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1009
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 263,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 263,
+                    "Score": 1,
+                    "Penalty": 11
+                },
+                "D": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 154,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 66,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 222,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 29,
+            "University": "Hasso Plattner Institute",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1034
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 260,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 260,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 39,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 66,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 151,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 134,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 202,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 30,
+            "University": "Shanghai Jiao Tong University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1059
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 241,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 173,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 114,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 279,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 31,
+            "University": "Beihang University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1060
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 194,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 39,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 39,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "F": {
+                    "Elapsed": 67,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 213,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 113,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 284,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 13,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 32,
+            "University": "University of Science, VNU-HCM",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1090
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 220,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "C": {
+                    "Elapsed": 220,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 238,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 90,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 131,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 250,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 33,
+            "University": "University of California, Berkeley",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1092
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 267,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 54,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 203,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 94,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 113,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 287,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 34,
+            "University": "Central South University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1139
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 296,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 41,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 61,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 194,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 106,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 142,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 242,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 35,
+            "University": "BINUS University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1159
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 294,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 41,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 61,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 271,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 82,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 203,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 15,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 36,
+            "University": "ETH Zürich",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1236
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 221,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "B": {
+                    "Elapsed": 221,
+                    "Score": 1,
+                    "Penalty": 13
+                },
+                "D": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 246,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 141,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 189,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 29,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 37,
+            "University": "Korea University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1258
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 292,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "B": {
+                    "Elapsed": 292,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "H": {
+                    "Elapsed": 284,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 32,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 112,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 159,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 41,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 38,
+            "University": "Moscow State University",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1261
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 279,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 218,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 92,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 149,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "K": {
+                    "Elapsed": 229,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 18,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 39,
+            "University": "Università di Pisa",
+            "TotalResult": {
+                "Score": 8,
+                "Penalty": 1343
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 257,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "D": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 55,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 294,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 191,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 40,
+            "University": "Delft University of Technology",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 603
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "B": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 109,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 133,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 88,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 159,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 13,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 41,
+            "University": "Pohang University of Science and Technology",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 692
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 256,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 55,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 55,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 86,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 164,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 42,
+            "University": "Jagiellonian University in Krakow",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 718
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "B": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 135,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "F": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "I": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 103,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 233,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 43,
+            "University": "University of Wroclaw",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 722
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 268,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 131,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 86,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 44,
+            "University": "The University of British Columbia",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 774
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 219,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 86,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 250,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 45,
+            "University": "University of Hong Kong",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 783
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 161,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 81,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 108,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 261,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 29,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 46,
+            "University": "UNSW Sydney",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 787
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 145,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "F": {
+                    "Elapsed": 61,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "G": {
+                    "Elapsed": 61,
+                    "Score": 1,
+                    "Penalty": 8
+                },
+                "I": {
+                    "Elapsed": 86,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 173,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 47,
+            "University": "The University of Chicago",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 804
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 261,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 28,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 84,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 81,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 146,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 48,
+            "University": "De La Salle University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 805
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 48,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 25,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 217,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 117,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 232,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 28,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 49,
+            "University": "Georgia Institute of Technology",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 826
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 28,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "D": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 65,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 274,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 90,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 212,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 50,
+            "University": "University of Cambridge",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 827
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 77,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 269,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 136,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 92,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 51,
+            "University": "Texas A&M University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 828
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 158,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 114,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 71,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 228,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 52,
+            "University": "University of Central Florida",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 882
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 273,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 204,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 109,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 53,
+            "University": "Moscow Aviation Institute",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 914
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 46,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 282,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 194,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 143,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 54,
+            "University": "Ecole Polytechnique Fédérale de Lausanne",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 921
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 224,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 76,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 168,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "K": {
+                    "Elapsed": 175,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 55,
+            "University": "Union University - Faculty of Computer Science",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 925
+            },
+            "TaskResults": {
+                "B": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 84,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 142,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 261,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 153,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 28,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 56,
+            "University": "St. Petersburg ITMO University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 929
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 16,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 16,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "F": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 192,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 108,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 182,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "K": {
+                    "Elapsed": 297,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 57,
+            "University": "Astana IT University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 953
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 86,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "H": {
+                    "Elapsed": 187,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 198,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 259,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 15,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 58,
+            "University": "University of Warsaw",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 967
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 15,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 65,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 193,
+                    "Score": 1,
+                    "Penalty": 6
+                },
+                "I": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 226,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 212,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 59,
+            "University": "Rutgers University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 987
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 56,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 248,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 123,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 165,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 227,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 13,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 60,
+            "University": "Chennai Mathematical Institute",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 992
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 260,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 66,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 118,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 155,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "K": {
+                    "Elapsed": 188,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 61,
+            "University": "International IT University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 1005
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 220,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 169,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 277,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 62,
+            "University": "Belarusian State University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 1011
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 47,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 289,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "F": {
+                    "Elapsed": 79,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 103,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 124,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 191,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 63,
+            "University": "Brigham Young University",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 1196
+            },
+            "TaskResults": {
+                "B": {
+                    "Elapsed": 247,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 65,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 85,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 133,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 228,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "K": {
+                    "Elapsed": 298,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 64,
+            "University": "Nanjing University of Science and Technology",
+            "TotalResult": {
+                "Score": 7,
+                "Penalty": 1340
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 278,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 80,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 107,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "I": {
+                    "Elapsed": 114,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 147,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 293,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 65,
+            "University": "University of California, Los Angeles",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 436
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "B": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "D": {
+                    "Elapsed": 28,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 119,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 66,
+            "University": "Universidade Federal de Minas Gerais",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 475
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 180,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 86,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 105,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 18,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 67,
+            "University": "University of Toronto",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 544
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 47,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 15
+                },
+                "I": {
+                    "Elapsed": 72,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 110,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 185,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 32,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 68,
+            "University": "National Economics University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 560
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 106,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 238,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 69,
+            "University": "The University of Texas at Dallas",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 590
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 27,
+                    "Score": 1,
+                    "Penalty": 6
+                },
+                "D": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 197,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 100,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 70,
+            "University": "Beijing University of Posts and Telecommunications",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 596
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 67,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 48,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 221,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 170,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 71,
+            "University": "Nanjing University of Aeronautics and Astronautics",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 599
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 71,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 42,
+                    "Score": 1,
+                    "Penalty": 11
+                },
+                "I": {
+                    "Elapsed": 54,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 90,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 290,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 12,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 72,
+            "University": "Indian Institute of Technology - Indore",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 611
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 81,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 56,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 106,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 140,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 191,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 73,
+            "University": "International Institute of Information Technology, Hyderabad",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 639
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 77,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 202,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 171,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 74,
+            "University": "National Yang Ming Chiao Tung University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 658
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 264,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 124,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 75,
+            "University": "University of Tartu",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 725
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 71,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 266,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 90,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 90,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 110,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 150,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 76,
+            "University": "Universidad de Buenos Aires - FCEN",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 725
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 67,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 281,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 125,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 77,
+            "University": "Ecole Polytechnique",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 726
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "D": {
+                    "Elapsed": 77,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 119,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 257,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "L": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 78,
+            "University": "University of Belgrade",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 782
+            },
+            "TaskResults": {
+                "C": {
+                    "Elapsed": 14,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 112,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 97,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 175,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 199,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 79,
+            "University": "Neapolis University Pafos",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 791
+            },
+            "TaskResults": {
+                "B": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 76,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 39,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 289,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 100,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 143,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 143,
+                    "Score": 1,
+                    "Penalty": 6
+                },
+                "L": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 80,
+            "University": "National Institute of Technology, Tokuyama College",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 803
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 65,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 247,
+                    "Score": 1,
+                    "Penalty": 8
+                },
+                "I": {
+                    "Elapsed": 90,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 127,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 127,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "L": {
+                    "Elapsed": 79,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 81,
+            "University": "Saarland University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 808
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 62,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 115,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 224,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 290,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 82,
+            "University": "Southern University of Science and Technology",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 826
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 240,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 277,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "J": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 83,
+            "University": "University of Tehran",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 847
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 125,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 289,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 171,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 94,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 94,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 50,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 84,
+            "University": "Ural Federal University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 872
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 73,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 98,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 98,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 112,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 251,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 266,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 85,
+            "University": "Universiteit Utrecht",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 908
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 93,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "H": {
+                    "Elapsed": 93,
+                    "Score": 1,
+                    "Penalty": 9
+                },
+                "I": {
+                    "Elapsed": 215,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 249,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 86,
+            "University": "Universidad Nacional de Rosario",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 996
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 85,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 205,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 156,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 297,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 54,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 87,
+            "University": "Petrozavodsk State University",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 1004
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 60,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 60,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 153,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "H": {
+                    "Elapsed": 296,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 203,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 88,
+            "University": "University of Melbourne",
+            "TotalResult": {
+                "Score": 6,
+                "Penalty": 1047
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 10
+                },
+                "D": {
+                    "Elapsed": 119,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 195,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "H": {
+                    "Elapsed": 280,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 165,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 165,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 89,
+            "University": "Moscow Institute of Physics and Technology",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 307
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 82,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 82,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 66,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 46,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 90,
+            "University": "University of Science and Technology - The University of Danang",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 378
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "I": {
+                    "Elapsed": 104,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 91,
+            "University": "Indian Institute of Technology - Kanpur",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 415
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 51,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 79,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 136,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 107,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 92,
+            "University": "Universidade Federal de Campina Grande",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 429
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 102,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 165,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 29,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 93,
+            "University": "Arab Academy for Science, Technology and Maritime Transport - Cairo",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 452
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 72,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 48,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 96,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 142,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 94,
+            "University": "National University of Science and Technology MISIS",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 459
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 130,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 147,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 95,
+            "University": "Duke University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 472
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 58,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 113,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 155,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 155,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 17,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 96,
+            "University": "Ecole Polytechnique de Tunisie",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 486
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 35,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 81,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 152,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 152,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 97,
+            "University": "Indian Institute of Technology - Delhi",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 486
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 83,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 177,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "K": {
+                    "Elapsed": 177,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 98,
+            "University": "Indian Institute of Technology - Roorkee",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 528
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "D": {
+                    "Elapsed": 95,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 68,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 118,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 147,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 20,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 99,
+            "University": "Universidad Nacional de Ingeniería - FC",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 544
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 102,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 120,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 214,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 214,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "L": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 100,
+            "University": "Instituto Militar de Engenharia",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 554
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 103,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 105,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 105,
+                    "Score": 1,
+                    "Penalty": 16
+                },
+                "I": {
+                    "Elapsed": 108,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 146,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 12,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 101,
+            "University": "ADA University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 557
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 54,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 79,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 273,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 102,
+            "University": "Universidade de São Paulo",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 558
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 118,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "D": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 46,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 259,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "J": {
+                    "Elapsed": 259,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "K": {
+                    "Elapsed": 259,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 21,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 103,
+            "University": "Indian Institute of Technology - Bombay",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 599
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 68,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 168,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 198,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "K": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 13,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 104,
+            "University": "Assiut University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 613
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 102,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 102,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 179,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 194,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 25,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 105,
+            "University": "Jordan University of Science and Technology",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 638
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 57,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 103,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 158,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 237,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 106,
+            "University": "Syrian Virtual University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 646
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 70,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 151,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 276,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 107,
+            "University": "BRAC University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 648
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 54,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 140,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 205,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 152,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 37,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 108,
+            "University": "Nizhny Novgorod State University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 648
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 98,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 105,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "H": {
+                    "Elapsed": 105,
+                    "Score": 1,
+                    "Penalty": 7
+                },
+                "I": {
+                    "Elapsed": 59,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 243,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 43,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 109,
+            "University": "Indian Institute of Technology - Kharagpur",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 660
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 77,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 103,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 147,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 251,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 110,
+            "University": "Universidad Nacional de La Plata",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 676
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "B": {
+                    "Elapsed": 22,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "D": {
+                    "Elapsed": 95,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 95,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 60,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 60,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 121,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 209,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "K": {
+                    "Elapsed": 209,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 91,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 111,
+            "University": "Universidad Nacional de Colombia - Bogotá",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 685
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 33,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 83,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 132,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 282,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 55,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 112,
+            "University": "Universidade Federal de Pernambuco",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 707
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 137,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 230,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 182,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 113,
+            "University": "Innopolis University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 710
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 75,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "I": {
+                    "Elapsed": 136,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 217,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 73,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 114,
+            "University": "Institut National des Sciences Appliquées et de Technologie",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 711
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 150,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 150,
+                    "Score": 1,
+                    "Penalty": 7
+                },
+                "I": {
+                    "Elapsed": 185,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 244,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 25,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 115,
+            "University": "Sohag University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 725
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 76,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 115,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 135,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 216,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 116,
+            "University": "Carnegie Mellon University in Qatar",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 729
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "E": {
+                    "Elapsed": 89,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "F": {
+                    "Elapsed": 85,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 143,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 268,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 24,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 117,
+            "University": "Indian Institute of Technology - Varanasi",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 738
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 139,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 87,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 193,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 169,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 118,
+            "University": "Universidad de Chile",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 758
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "G": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 9
+                },
+                "I": {
+                    "Elapsed": 143,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 292,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 119,
+            "University": "Universidad Mayor de San Simón",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 760
+            },
+            "TaskResults": {
+                "A": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "D": {
+                    "Elapsed": 78,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 172,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 294,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "K": {
+                    "Elapsed": 294,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 45,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 120,
+            "University": "Shahjalal University of Science and Technology",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 773
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 138,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 115,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 247,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 121,
+            "University": "Purdue University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 784
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 69,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 224,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "H": {
+                    "Elapsed": 224,
+                    "Score": 1,
+                    "Penalty": 6
+                },
+                "I": {
+                    "Elapsed": 73,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 187,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "L": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 122,
+            "University": "Damascus University",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 794
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 76,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 108,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "H": {
+                    "Elapsed": 108,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 153,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 201,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 4
+                }
+            }
+        },
+        {
+            "Rank": 123,
+            "University": "Ain Shams University - Faculty of Computer and Information Sciences",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 809
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 83,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 119,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 186,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 271,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 70,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 124,
+            "University": "Instituto Tecnológico de Costa Rica campus Alajuela",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 832
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 141,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "H": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "I": {
+                    "Elapsed": 165,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 281,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "L": {
+                    "Elapsed": 31,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 125,
+            "University": "National Institute of Technology Tiruchirappalli",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 855
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 84,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 129,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 180,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 298,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 64,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 126,
+            "University": "Arab Academy for Science, Technology and Maritime Transport - Alameen",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 898
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 84,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 154,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 197,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 298,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 25,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 127,
+            "University": "Baku Higher Oil School",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 944
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 115,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 294,
+                    "Score": 1,
+                    "Penalty": 5
+                },
+                "J": {
+                    "Elapsed": 263,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 128,
+            "University": "Universidade Estadual de Campinas",
+            "TotalResult": {
+                "Score": 5,
+                "Penalty": 1038
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 188,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "I": {
+                    "Elapsed": 287,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 291,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 19,
+                    "Score": 1,
+                    "Penalty": 1
+                }
+            }
+        },
+        {
+            "Rank": 129,
+            "University": "Arab Academy for Science, Technology and Maritime Transport - Smart Village",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 383
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 52,
+                    "Score": 1,
+                    "Penalty": 8
+                },
+                "I": {
+                    "Elapsed": 131,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 174,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "L": {
+                    "Elapsed": 26,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 130,
+            "University": "Cairo University - Faculty of Computers and Artificial Intelligence",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 453
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 23,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 214,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 116,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 40,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 131,
+            "University": "Universidad Autónoma de Yucatán",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 474
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 136,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 74,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 53,
+                    "Score": 1,
+                    "Penalty": 3
+                }
+            }
+        },
+        {
+            "Rank": 132,
+            "University": "Universidad de La Habana",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 510
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 108,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "I": {
+                    "Elapsed": 193,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 30,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 133,
+            "University": "Homs University",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 582
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 99,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "F": {
+                    "Elapsed": 202,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "I": {
+                    "Elapsed": 137,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "J": {
+                    "Elapsed": 137,
+                    "Score": 1,
+                    "Penalty": 4
+                },
+                "L": {
+                    "Elapsed": 44,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 134,
+            "University": "Universidade Federal de Alagoas",
+            "TotalResult": {
+                "Score": 4,
+                "Penalty": 705
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 91,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 186,
+                    "Score": 1,
+                    "Penalty": 6
+                },
+                "I": {
+                    "Elapsed": 212,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "J": {
+                    "Elapsed": 212,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 36,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 135,
+            "University": "NU-FAST Karachi",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 303
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 101,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "F": {
+                    "Elapsed": 128,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "J": {
+                    "Elapsed": 128,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 34,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 136,
+            "University": "University of Balamand",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 342
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 153,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 111,
+                    "Score": 1,
+                    "Penalty": 3
+                },
+                "L": {
+                    "Elapsed": 38,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 137,
+            "University": "The University of Jordan",
+            "TotalResult": {
+                "Score": 3,
+                "Penalty": 829
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 293,
+                    "Score": 1,
+                    "Penalty": 7
+                },
+                "F": {
+                    "Elapsed": 293,
+                    "Score": 1,
+                    "Penalty": 7
+                },
+                "I": {
+                    "Elapsed": 267,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "J": {
+                    "Elapsed": 267,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 49,
+                    "Score": 1,
+                    "Penalty": 2
+                }
+            }
+        },
+        {
+            "Rank": 138,
+            "University": "Universidad Panamericana Campus Bonaterra",
+            "TotalResult": {
+                "Score": 2,
+                "Penalty": 175
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 112,
+                    "Score": 1,
+                    "Penalty": 0
+                },
+                "F": {
+                    "Elapsed": 112,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "I": {
+                    "Elapsed": 112,
+                    "Score": 1,
+                    "Penalty": 2
+                },
+                "L": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 0
+                }
+            }
+        },
+        {
+            "Rank": 139,
+            "University": "Kardan University",
+            "TotalResult": {
+                "Score": 0,
+                "Penalty": 0
+            },
+            "TaskResults": {
+                "D": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 1
+                },
+                "L": {
+                    "Elapsed": 63,
+                    "Score": 1,
+                    "Penalty": 4
+                }
+            }
+        }
+    ]
+}

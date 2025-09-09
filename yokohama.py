@@ -97,8 +97,8 @@ def main():
                 assert False, f"unknown status {bg}"
         data["TaskResults"] = TaskResults
         StandingsData.append(data)
-    assert Penalty == Penalty_
-    assert Score == Score_
+        assert Penalty == Penalty_
+        assert Score == Score_
     with OUT.open("w") as f:
         print(
             json.dumps(
