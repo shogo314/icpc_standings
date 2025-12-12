@@ -4,8 +4,8 @@ import json
 
 
 def main():
-    IN = Path().joinpath("html", "ICPC 2025 国内予選.html")
-    OUT = Path().joinpath("standings_2025_domestic.json")
+    IN = Path().joinpath("html", "ICPC 2025 Asia Yokohama Regional.html")
+    OUT = Path().joinpath("json", "standings_2025_yokohama.json")
     with IN.open("r") as f:
         text = f.read()
     soup = BeautifulSoup(text, "html.parser")
@@ -27,12 +27,6 @@ def main():
     ):
         TaskInfo.append(problem.get_text(strip=True))
     ContestData = {
-        "UnitTime": "second",
-        "Penalty": 1200,
-        "Duration": 18000,
-        "TaskInfo": TaskInfo,
-    }
-    ContestData = {
         "UnitTime": "minute",
         "Penalty": 20,
         "Duration": 300,
@@ -40,9 +34,14 @@ def main():
     }
     standing = standings[2].find("div")
     StandingsData = []
+    prerank = 1
     for row in standing.find_all("div", class_="team-row"):
         data = {}
-        rank = int(row.find("div", class_="team-rank").get_text(strip=True))
+        try:
+            rank = int(row.find("div", class_="team-rank").get_text(strip=True))
+            prerank = rank
+        except:
+            rank = prerank
         data["Rank"] = rank
         right = row.find("div", class_="team-right")
         score = list(right.find("div", class_="team-score").find("div", class_="team-colored-col-fg").stripped_strings)
